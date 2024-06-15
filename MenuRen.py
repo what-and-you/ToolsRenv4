@@ -1,5 +1,77 @@
-#Encrypted with Crypton
-#Created by OVERDOSIS
-import base64
-import zlib
-exec(zlib.decompress(base64.b16decode("789C9554DD6AE24014BE0FE41D0E61AF161A9B640BBB152F5256AAB4D5C5E845B16549E3B4B11B133171E9850F5016161A487459087DB73C411F61478D667E12B7198E9239BFF3CD9CF3590E3267A2802CDB832304D2CD937236D43E4D44215D3E6712AFD265B81352F95C20A43E0FA44D7CC2784516CC5D48CDDE374AE3174292D2C098FC600A86FB82381F952062A34BF14484BE4AC1308DFF1260122E3A22B05139F2C08A05979BD03C6509C2023C744DFE08040E5C902A42C85E9F7DBCB06FC804E66E09BD259F1D2394B6BD4BFE6FFA186ED050FB5C57EBC775F5E4A47E8C1B7AB168BC6F2D166B675064C7741FE701FC40D0F73CC7EF21F7A706EF5F591E55464FE3A042DCA16C1520CC903982A329BE0B667D6B5FB65B70D5EC0C4E259821F70B5EA230BE87217CC8B6D0688002B7A210D8C815056BCB12BE83D01494EC9A25C7334763F7419665D07646B5C0A81E322A84312BF3806FCB723C17811D0453FFB456C31A7B7E275BDEA4D66F35BBD786A26A35FC1CDFCD4753C6461C3A826C2F0A77A66FC304B973D9B745E17E5C804DE5B06D0FC6B050C1441CA0B4A2409ADB78EACA8960454E12356D5B678E1AF8B392BC4A0D6DC48D3DCB157B4DC15913CE3DA20B56C85A7AAF51C96DFC276B353AE1F42C2D863B52615A7DF8F116FA2DBD7361C059AFFBF61AFE4E931516896BED8D67B3D7BED22F74038F9931F8AA6F86EDFC7CD0C1BA0EF4BBDD4B030CFD5A7F7BFDF36BFD6372E1615A33C6BA75FF01840ADF99")))
+import os
+import time
+
+def print_colored_text(text, color_code):
+  """Prints text with the specified color code.
+
+  Args:
+    text: The text to print.
+    color_code: The ANSI escape code for the desired color.
+  """
+  print(f"\033[{color_code}m{text}\033[0m")
+
+# Print the banner
+print_colored_text(
+    """
+███╗░░░███╗███████╗███╗░░██╗██╗░░░██╗
+████╗░████║██╔════╝████╗░██║██║░░░██║
+██╔████╔██║█████╗░░██╔██╗██║██║░░░██║
+██║╚██╔╝██║██╔══╝░░██║╚████║██║░░░██║
+██║░╚═╝░██║███████╗██║░╚███║╚██████╔╝
+╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░╚═════╝░
+""",
+    "34"
+)
+
+print()
+print()
+
+# Print the menu
+print_colored_text(
+    """
+||=======================================||
+|| 1.lanjut ke ToolsRenv3                ||
+|| 2.exit                                ||
+||=======================================||
+""",
+    "38;2;0;255;0"
+)
+
+# Get user input
+ren9999 = input("                PILIH MENU:")
+
+if ren9999 == "1":
+  os.system("clear")
+  time.sleep(1)
+  print("loading... 3")
+  time.sleep(2)
+  os.system("clear")
+  print("loading... 2")
+  time.sleep(2)
+  os.system("clear")
+  print("loading... 1")
+  time.sleep(2)
+  os.system("clear")
+  os.system("git clone https://github.com/THEOYS123/Ren_aja.git")
+  os.chdir("Ren_aja")
+  os.system("bash menu.sh")
+
+elif ren9999 == "2":
+  os.system("clear")
+  print_colored_text(
+    """
+███████╗██╗░░██╗██╗████████╗
+██╔════╝╚██╗██╔╝██║╚══██╔══╝
+█████╗░░░╚███╔╝░██║░░░██║░░░
+██╔══╝░░░██╔██╗░██║░░░██║░░░
+███████╗██╔╝╚██╗██║░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░╚═╝░░░
+""",
+    "34"
+  )
+  time.sleep(1)
+  print("[*] THANKS BRO👍❗❗")
+  time.sleep(2)
+  print("[*] TERIMAKASIH SUDAH MENGGUNAKAN TOOLS SAYA😊😊❗❗")
+  time.sleep(3)
+  exit()
