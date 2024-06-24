@@ -4,4 +4,4 @@ cd MenuRen
 
 git pull
 
-python MenuRen_enc.py
+python MenuRen_enc_enc.py
