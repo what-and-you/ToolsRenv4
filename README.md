@@ -1,34 +1,4 @@
 
-body{
-	background: black;
-}
-#font{
-	font-family:Courier;
-	color:white;
-	position:absolute;
-	left:0;
-	left:0;
-	right:0;
-	top:10%;
-}
-img {
-	opacity:0.5;-webkit-transition:all 250ms ease;-moz-transition:all 250ms ease;-o-transition:all 250ms ease;transition:all 250ms ease;
-	margin-top:-10px;
-}
-img:hover{	
-	opacity:1
-}
-hr {
-	width:250px;
-}
-a{
-	color:white;
-	text-decoration:none
-}
-a.hover{
-	color:white;
-}
-</style>
 </head>
 <body><center><br>
 <body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
