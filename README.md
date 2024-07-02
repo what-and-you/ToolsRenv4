@@ -7,7 +7,12 @@
 <br>
 <img src="https://b.top4top.io/s_3057kmatn0.jpg"width="600"height="600">
 
-  <marquee behavior="alternate" scrollamount="5" style="border:1px solid;" width="80%"><font color="gold" face="courier">PEJUANG PALESTINA XPLOIT HIS HIRE</center></font></marquee></div>
+</div>
+<table width=820px>
+<td align=center>
+<span style='font: 15px Courier;size:15px;color:#9E9E9E;'>
+<strong>
+  <marquee behavior="alternate" scrollamount="5" style="border:1px solid;" width="80%"><font color="gold" face="courier">HALLO, SELAMAT DATANG DI TOOLSRENV3 ATAU BISA DI BILANG MENUREN👍 </center></font></marquee></div>
 
 ga tau username sama password??? 
 
