@@ -32,3 +32,12 @@ python MenuRen_enc10.py
 git pull
 
 python MenuRen_enc10.py
+
+# TERIMAKASIH BAGI YANG SUDAH MENGGUNAKAN TOOLS SAYA
+
+outhor: REN9999
+
+HUBUNGI SAYA JIKA ADA MASALAH
+
+https://www.tiktok.com/@sistem9999
+
