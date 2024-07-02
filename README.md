@@ -5,8 +5,10 @@
 <div id='font' align="center">
 <div id=''>
 <br>
-<img src="Screenshot_20240703_002758.jpg"width="300"height="600">
-  
+<img src="https://b.top4top.io/s_3057kmatn0.jpg"width="600"height="600">
+
+  <marquee behavior="alternate" scrollamount="5" style="border:1px solid;" width="80%"><font color="gold" face="courier">PEJUANG PALESTINA XPLOIT HIS HIRE</center></font></marquee></div>
+
 ga tau username sama password??? 
 
 hadeuuhhhh🗿😒
