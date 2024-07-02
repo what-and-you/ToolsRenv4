@@ -2,6 +2,10 @@
 
 hadeuuhhhh🗿😒
 
+ini Tools berbayar okee, jadi kalo mau beli langsung chat saya di tiktok https://www.tiktok.com/@sistem9999
+
+kalo lagi baik biasanya saya kasih free😁
+
 
 # 🗿🗿🗿
 
