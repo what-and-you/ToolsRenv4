@@ -1,18 +1,3 @@
-#-->
-<!--
---  Downloaded from : https://haxor.my.id/save/SCOfilhm.html
---  Official Web : https://prinsh.com
---  script-deface-generator.prinsh.com
--->
-<html>
-
-<head>
-<meta charset="utf-8">
-<meta name="description" content="Hacked by C.T.I">
-<meta name="keywords" content="Hacked by C.T.I">
-<title>Hacked By REN9999</title>
-<script language="JavaScript">alert("WELCOME TO DEFACE BY REN9999🤡🤡🤡👻👻😈😈😈🖕🖕🖕");</script>
-<style>
 
 body{
 	background: black;
