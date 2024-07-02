@@ -1,10 +1,3 @@
-<marquee scrollamount="10">Selamat datang di website kami!</marquee>
-
-
-
-
-
-
 # ga tau username sama password??? 
 
 hadeuuhhhh🗿😒
