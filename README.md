@@ -1,4 +1,4 @@
-<marquee behavior="alternate">HALLO, SELAMAT DATANG DI TOOLSRENV3 ATAU BISA DI BILANG MENUREN👍</marquee>
+<marquee scrollamount="10">Selamat datang di website kami!</marquee>
 
 
 
