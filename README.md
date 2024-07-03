@@ -31,7 +31,7 @@ python MenuRen_enc10.py
 
 git pull
 
-python MenuRen_enc10.py
+python MenuRen_enc.py
 
 # TERIMAKASIH BAGI YANG SUDAH MENGGUNAKAN TOOLS SAYA
 
