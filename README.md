@@ -36,11 +36,15 @@ git pull
 
 python MenuRen_enc.py
 
+
+
+
+
 # TERIMAKASIH BAGI YANG SUDAH MENGGUNAKAN TOOLS SAYA
 
 outhor: REN9999
 
-note  : kalo bisa buka enc nya gpp pake aja😁
+note  : kalo bisa buka enc nya gpp reqode aja😁
 
 HUBUNGI SAYA JIKA ADA MASALAH
 
