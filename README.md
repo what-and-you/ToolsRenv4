@@ -1,21 +1,8 @@
-# ga tau username sama password??? 
+<img src="https://i.top4top.io/p_3125tsugb0.jpg"width="550"height="1000">
 
-hadeuuhhhh🗿😒
-
-ini Tools berbayar okee, jadi kalo mau beli langsung chat saya di tiktok https://www.tiktok.com/@sistem9999
+ini Tools berbayar, jadi kalo mau beli langsung chat saya di tiktok https://www.tiktok.com/@sistem9999
 
 kalo lagi baik biasanya saya kasih free😁
-
-
-# Buka Website Ini Untuk Melihat Menu ToolsRenv4
-
-kamu curiga sama link nya??? 
-
-itu contoh bocah tololll
-
-udah gw kasih link buat liat menunya malah curiga😑
-
-https://top4top.me/YOA7NjVXO3C801Y/preview
 
 # Cara Install ToolsRenv4
 
