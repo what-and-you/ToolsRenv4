@@ -1,4 +1,11 @@
+</head>
+<body><center><br>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+<div id='font' align="center">
+<div id=''>
+<br>
 <img src="https://i.top4top.io/p_3125tsugb0.jpg"width="550"height="1000">
+
 
 ini Tools berbayar, jadi kalo mau beli langsung chat saya di tiktok https://www.tiktok.com/@sistem9999
 
