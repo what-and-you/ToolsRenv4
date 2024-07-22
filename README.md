@@ -6,10 +6,13 @@
 <br>
 <img src="https://i.top4top.io/p_3125tsugb0.jpg"width="550"height="1000">
 
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-ini Tools berbayar, jadi kalo mau beli langsung chat saya di tiktok https://www.tiktok.com/@sistem9999
 
-kalo lagi baik biasanya saya kasih free😁
 
 # Cara Install ToolsRenv4
 
