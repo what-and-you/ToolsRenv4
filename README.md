@@ -12,6 +12,12 @@
   &nbsp; INI TAMPILAN MENUNYA YAA🗿🗿🗿&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
+</div>
+<table width=820px>
+<td align=center>
+<span style='font: 15px Courier;size:15px;color:#9E9E9E;'>
+<strong>
+<marquee behavior="alternate" scrollamount="5" style="border:1px solid;" width="80%"><font color="red" face="courier">SAYA REN9999 MASIH SKILL PEMULA</center></font></marquee></div>
 
 
 # Cara Install ToolsRenv4
