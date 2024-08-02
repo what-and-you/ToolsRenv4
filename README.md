@@ -14,21 +14,15 @@
 
 
 # Cara Install ToolsRenv4
-'''
 
 pkg update
-'''
-'''
 
 pkg upgrade
-'''
-'''
 
 pkg install python
-'''
-'''
+
 git clone https://github.com/what-and-you/ToolsRenv4.git
-'''
+
 # Untuk Run
 
 cd MenuRen
